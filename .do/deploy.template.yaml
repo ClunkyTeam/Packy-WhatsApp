@@ -1,0 +1,8 @@
+spec:
+  name: Packy
+  services:
+    - name: Packy
+      git:
+        branch: main
+        repo_clone_url: https://github.com/ClunkyTeam/Packy-WhatsApp.git
+      envs:

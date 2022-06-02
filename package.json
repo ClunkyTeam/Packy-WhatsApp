@@ -1,0 +1,44 @@
+{
+  "name": "packy-whatsapp",
+  "version": "0.1.0",
+  "description": "A WhatsApp bot that helps to manage stickers",
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "bot",
+    "whatsapp",
+    "whatsapp-web.js",
+    "whatsapp-bot",
+    "stickers"
+  ],
+  "homepage": "https://github.com/ClunkyTeam/Packy-WhatsApp#README",
+  "bugs": {
+    "url": "https://github.com/ClunkyTeam/Packy-WhatsApp/issues"
+  },
+  "license": "AGPL-3.0",
+  "author": {
+    "name": "Jesús Iván Godínez Martínez",
+    "email": "ivano.godinez@gmail.com",
+    "url": "https://github.com/IvanGodinez21"
+  },
+  "contributors": [],
+  "funding": [
+    {
+      "type": "GitHub Sponsors",
+      "url": "https://github.com/sponsors/IvanGodinez21"
+    }
+  ],
+  "main": "src/main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClunkyTeam/Packy-WhatsApp.git"
+  },
+  "scripts": {
+    "start": "node src/main.js",
+    "dev": "nodemon src/main.js"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": "16.x"
+  }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Packy",
+    "description": "Create a copy of the official Packy (WhatsApp) bot",
+    "logo": "https://cdn.discordapp.com/app-icons/857657428740014150/372538301b7f647892cc36f9dff186aa.png",
+    "repository": "https://github.com/ClunkyTeam/Packy-WhatsApp",
+    "buildpacks": [
+        {
+            "url": "heroku/nodejs"
+        }
+    ],
+    "website": "discord.gg/ujhR8gA",
+    "keywords": [
+        "nodejs",
+        "javascript",
+        "bot",
+        "whatsapp",
+        "whatsapp-web.js",
+        "whatsapp-bot",
+        "stickers"
+    ],
+    "env": {}
+}
